@@ -1,0 +1,7 @@
+## Interface: 100200
+## Version: 1.0.0
+## Title: Guildie
+## Notes: WoW Classic Guild Addon
+## Author: Wind, TwinPixie, Alkrdev
+
+main.lua
